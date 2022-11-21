@@ -18,8 +18,8 @@ What are included in the folder of the submission:
 3.The generated files for the answers include:
 - log.txt to include the maximum size of this buffer (counted in number of lines) of Q1 and the size of the output files of Q1 to Q5.
 - Output files of Q1 to Q5 which includes:
-      oRjoinS.tsv
-      oRunionS.tsv
-      oRintersectionS.tsv
-      oRdifferenceS.tsv
-      oRgroupby.tsv
+      RjoinS.tsv
+      RunionS.tsv
+      RintersectionS.tsv
+      RdifferenceS.tsv
+      Rgroupby.tsv
